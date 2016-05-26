@@ -1,1 +1,1 @@
-# K-Means-Clusreting-R-Programming
+# K-Means-Clustering-R-Programming
